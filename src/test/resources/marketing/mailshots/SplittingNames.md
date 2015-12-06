@@ -7,4 +7,4 @@ The system therefore attempts to break a supplied full name into its constituent
 
 ### Example
 
-The full name Jane Smith will be broken into first name Jane and last name Smith.
+The full name Jane Smith is broken into first name Jane and last name Smith.
