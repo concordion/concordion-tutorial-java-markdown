@@ -10,4 +10,5 @@ dependencies {
 
 test {
     systemProperties['concordion.output.dir'] = "$reporting.baseDir/spec"
+    testLogging.showStandardStreams = true
 }
