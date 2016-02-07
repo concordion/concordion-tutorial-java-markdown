@@ -9,7 +9,7 @@ public class SplittingNamesTest {
     public Result split(String fullName) {
         Result result = new Result();
         String[] words = fullName.split(" ");
-        result.firstName = words[0].substring(0, words[0].length() - 1);
+        result.firstName = words[0];
         result.lastName = words[1];
         return result;
     }
