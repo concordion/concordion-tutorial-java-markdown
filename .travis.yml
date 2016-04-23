@@ -1,6 +1,6 @@
 script:
   - cd initial && ./gradlew check && cd ..
-  - cd documenting && ./gradlew check && cd ..
   - cd documented && ./gradlew check && cd ..
+  - cd instrumenting && ./gradlew check && cd ..
   - cd instrumented && ./gradlew check && cd ..
   - cd complete && ./gradlew check && cd ..
