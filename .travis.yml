@@ -1,0 +1,6 @@
+script:
+  - cd initial && ./gradlew check
+  - cd documenting && ./gradlew check
+  - cd documented && ./gradlew check
+  - cd instrumented && ./gradlew check
+  - cd complete && ./gradlew check
