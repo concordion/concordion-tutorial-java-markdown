@@ -1,3 +1,5 @@
+sudo: false  # update to latest Travis CI build infrastructure
+
 language: java
 jdk:
   - oraclejdk8
