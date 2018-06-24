@@ -1,5 +1,9 @@
 apply plugin: 'java'
 
+wrapper {
+    gradleVersion = "4.8.1"
+}
+
 repositories {
     mavenCentral()
 }
