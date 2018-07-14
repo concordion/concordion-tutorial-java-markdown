@@ -4,4 +4,4 @@
 # Concordion Tutorial (Java + Markdown)
 Concordion Tutorial using Java fixtures and Markdown format specifications.
 
-See http://concordion.org/tutorial/java/markdown for instructions.
+See https://concordion.org/tutorial/java/markdown for instructions.
