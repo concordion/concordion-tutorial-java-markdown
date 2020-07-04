@@ -6,7 +6,6 @@ import org.junit.Ignore;
 import org.junit.runner.RunWith;
 
 @RunWith(ConcordionRunner.class)
-@Ignore
 public class SplittingNamesFixture {
 
     public Result split(String fullName) {
