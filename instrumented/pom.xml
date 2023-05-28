@@ -43,6 +43,6 @@
 
    <properties>
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-      <concordion.version>3.1.3</concordion.version>
+      <concordion.version>3.2.0</concordion.version>
    </properties>
 </project>
